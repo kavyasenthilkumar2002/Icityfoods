@@ -122,4 +122,4 @@ iCity Inc
 
 Food & Hospitality Division
 📄 License
-This project is developed exclusively for iCity Foods. All rights reserved © iCity Inc.
+This project is developed exclusively for iCity Foods. All rights reserved © Icity Inc.
